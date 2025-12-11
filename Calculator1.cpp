@@ -1,3 +1,7 @@
+/* A simple calculator program that lets the user add, subtract, multiply and divide two number 
+   And repeat the process as many times they want */
+
+
 #include <iostream>
 #include <cmath>
 using namespace std;
